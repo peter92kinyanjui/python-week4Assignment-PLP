@@ -1,0 +1,1 @@
+With Python programming, it is possible to modify contents of a file and copy it into another file as such in this example. 
